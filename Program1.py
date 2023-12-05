@@ -1,4 +1,6 @@
 a=int(input("Enter Number of years  "))
+d=0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
 total=0
 i=1
 c=a*12
@@ -9,4 +11,5 @@ while(i<=c):
 print("The Average High Temperature",total)  
 average=total/c
 print("Temperture",average)
+
 
