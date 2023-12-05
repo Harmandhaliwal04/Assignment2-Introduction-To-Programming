@@ -1,10 +1,13 @@
-x=[100,200,300,400,500,600,700,800,900]
-print(x[0])
-print(x[1])
-print(x[2])
-print(x[3])
-print(x[4])
-print(x[5])
-print(x[6])
-print(x[7])
-print(x[8])
+myNumbers=[500,600,800,100,50,250,445,666,1400]
+for i in range(0,9):
+    print()
+
+
+
+myNumbers[1]=myNumbers[2]
+
+
+
+myNumbers.sort(reverse=True)
+print(myNumbers)
+
