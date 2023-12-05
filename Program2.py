@@ -9,7 +9,7 @@ while(i<=c):
     i=i+1
 
 
-if i<1200:
+if a<1200:
     print("diet stabilized")
 
   
