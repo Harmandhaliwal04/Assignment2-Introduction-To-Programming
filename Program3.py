@@ -1,3 +1,4 @@
-for i in range(7):
- 
+print("##")
+for i in range(5):
+
  print("#"," "*i,"#")
